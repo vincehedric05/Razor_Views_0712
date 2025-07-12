@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\Razor_Views_0712\\WebApplication1\\",
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\Razor_Views_0712\\Views_AppsDev\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5339736E-4A54-4180-B46D-5FB1228B6995}|Views_AppsDev.csproj|c:\\users\\pc\\source\\repos\\razor_views_0712\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5339736E-4A54-4180-B46D-5FB1228B6995}|Views_AppsDev.csproj|c:\\users\\pc\\source\\repos\\razor_views_0712\\views_appsdev\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5339736E-4A54-4180-B46D-5FB1228B6995}|Views_AppsDev.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5339736E-4A54-4180-B46D-5FB1228B6995}|Views_AppsDev.csproj|c:\\users\\pc\\source\\repos\\razor_views_0712\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5339736E-4A54-4180-B46D-5FB1228B6995}|Views_AppsDev.csproj|c:\\users\\pc\\source\\repos\\razor_views_0712\\views_appsdev\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5339736E-4A54-4180-B46D-5FB1228B6995}|Views_AppsDev.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5339736E-4A54-4180-B46D-5FB1228B6995}|Views_AppsDev.csproj|c:\\users\\pc\\source\\repos\\razor_views_0712\\webapplication1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5339736E-4A54-4180-B46D-5FB1228B6995}|Views_AppsDev.csproj|c:\\users\\pc\\source\\repos\\razor_views_0712\\views_appsdev\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5339736E-4A54-4180-B46D-5FB1228B6995}|Views_AppsDev.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -36,11 +36,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Razor_Views_0712\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Razor_Views_0712\\Views_AppsDev\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\PC\\source\\repos\\Razor_Views_0712\\WebApplication1\\Views\\Home\\Index.cshtml*",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Razor_Views_0712\\Views_AppsDev\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-11T23:59:30.891Z",
               "EditorCaption": ""
@@ -49,27 +49,25 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Razor_Views_0712\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Razor_Views_0712\\Views_AppsDev\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\PC\\source\\repos\\Razor_Views_0712\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Razor_Views_0712\\Views_AppsDev\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-12T00:04:28.526Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-12T00:04:28.526Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Razor_Views_0712\\WebApplication1\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Razor_Views_0712\\Views_AppsDev\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\PC\\source\\repos\\Razor_Views_0712\\WebApplication1\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Razor_Views_0712\\Views_AppsDev\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-12T00:04:41.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-12T00:04:41.933Z"
             }
           ]
         }
